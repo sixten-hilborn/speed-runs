@@ -1,0 +1,45 @@
+v1.5.2 (November 14, 2013)
+==========================
+- Completely remade the Configure window
+	- Now called "Settings"
+	- Countains 2 new panels: Font settings and Display settings
+	- More options are available through the window; some have been removed from the primary window contextual menu
+	- A shortcut to the Display settings panel have been created in the Display settings menu
+- Added basic font customization options
+	- Any font from your computer's library can be used.
+	- The width text calculation has been optimized: faster and more precise
+	- The clock part of the primary window have been made completely dynamic to host any font without overflow
+- Added 2 new buttons in the Run editor
+	- Auto-fill best segments will fix all inaccuracies between Best Segment and Best Time columns
+		- Use it to make every segment of your last run your best by deleting your Best segments and using the Auto-fill best segments button
+	- Import will import any file run file created by Llanfair to WSplit
+		- Every field except the image field is imported (Llanfair stores the images themselves in memory rather than the path, making them unusable by WSplit)
+		- The Goal field has been imported, but since there is no such field in WSplit yet, it's still unused.
+
+v1.5.1 (October 28, 2013)
+=========================
+- Changed rounding logic: truncating is now used instead
+- Added a "Start at..." function, which allows to start the timer with a positive offset
+	- Options are Start Offset and Use Delay, to respectively chose the time to start at and to use the delay set in the configuration window
+- Added possibilities to the Detailed View:
+	- It is now possible to customize the Detailed View color, or to chose to use the primary window colors
+	- New Best Segment delta color has been added too
+	- Added the Sum of Best Segments column
+	- Modified the column selector window for new column
+
+- Fixed delta color always being the "New Best Segment" color after a segment was skipped
+- Fixed drawing delta crash when comparing to Sum of Best Segments
+- Fixed still being able to interact with the main window using specific maneuvre when modal window was opened
+
+v1.5.0 (October 17, 2013)
+=========================
+- Added a new Delta color: New Best Segment
+	- Added the New Best Segment color in the color costumization window
+- Added the option to compare to Sum of Best Segments
+	- Will work like every other comparison option, but will compare to you Sum of Best Segments
+	- Was not added to the "Compare to... -> Fastest" option, since it should always be the fastest between all 3 other options
+- Added prompts to avoid losses
+	- Added a prompt for updating splits upon "Reset" (You can discard changes, keep the changes or cancel)
+		- Prompt will show for a new Personal Best or a new Best Segment
+	- Added a prompt for saving splits upon closing them (Open, Close, Exit)
+	- Prompts are centered on parent window
