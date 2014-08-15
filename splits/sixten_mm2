@@ -1,18 +1,18 @@
 Title=Mega man 2
-Attempts=6
+Attempts=9
 Offset=0
 Size=265,69
 Flash,0,0,121.88
-Air,0,0,221.5
-Quick,0,0,199.8
-Metal,0,0,182.33
+Air,0,0,214.52
+Quick,0,0,198.27
+Metal,0,0,178.97
 Bubble,0,0,185.23
-Heat,0,0,216.01
+Heat,0,0,193.36
 Wood,0,0,229.85
-Crash,0,0,209.26
+Crash,0,0,203.13
 Wily 1,0,0,193.42
 Wily 2,0,0,166.19
-Wily 3,0,0,114.67
+Wily 3,0,0,114.6
 Wily 4,0,0,328.6
 Wily Machine,0,0,243.73
 Alein,0,0,115.07
