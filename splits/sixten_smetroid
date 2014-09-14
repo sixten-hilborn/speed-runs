@@ -1,22 +1,22 @@
 Title=Super Metroid
-Attempts=27
+Attempts=33
 Offset=0
 Size=321,63
 Morph ball,0,210.6,210.04
 Bomb,0,366.84,132.39
 Super missile,0,516.13,145.64
 Spazer,0,658.15,138.17
-Varia suit,0,783.18,125.03
+Varia suit,0,783.18,118.02
 Hi-jump,0,903.3,116.84
-Speed boost,0,1040.27,134.28
+Speed boost,0,1040.27,128.83
 Wave beam,0,1109.19,67.79
 Ice beam,0,1216.48,99.32
 Power bomb,0,1359.26,142.78
 Gravity suit,0,1847.86,411.15
-Maridia tank,0,2133.05,277.5
+Maridia tank,0,2133.05,272.42
 Space jump,0,2390.21,221.3
 Plasma  beam,0,2514.24,119.62
 Ridley tank,0,3014.95,477.83
-1 hp,0,3584.3,557.3
+1 hp,0,3584.3,554.76
 Fuck this I'm out,0,4017.79,430.93
 Icons="","","","","","","","","","","","","","","","",""
