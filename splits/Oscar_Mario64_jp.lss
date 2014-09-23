@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.4.2">
+  <GameIcon />
+  <GameName>
+  </GameName>
+  <CategoryName>Muper Sario 46</CategoryName>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>57</AttemptCount>
+  <RunHistory>
+    <Time id="1" />
+    <Time id="2">
+      <RealTime>00:28:36.9117542</RealTime>
+      <GameTime>00:28:36.9117542</GameTime>
+    </Time>
+    <Time id="3" />
+    <Time id="4">
+      <RealTime>00:23:22.3243643</RealTime>
+      <GameTime>00:23:22.3243643</GameTime>
+    </Time>
+  </RunHistory>
+  <Segments>
+    <Segment>
+      <Name>1 star</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:02:08.1380000</RealTime>
+          <GameTime>00:02:08.1380000</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:37.8474844</RealTime>
+        <GameTime>00:01:37.8474844</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:37.8474844</RealTime>
+          <GameTime>00:01:37.8474844</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:06.3800000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:08.1380000</RealTime>
+          <GameTime>00:02:08.1380000</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>WF</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:07.7000968</RealTime>
+          <GameTime>00:05:07.7000968</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:59.5620968</RealTime>
+        <GameTime>00:02:59.5620968</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:03:06.1060014</RealTime>
+          <GameTime>00:03:06.1060014</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:05.9600000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:59.5620968</RealTime>
+          <GameTime>00:02:59.5620968</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>CCM</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:32.8142825</RealTime>
+          <GameTime>00:07:32.8142825</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:18.5400000</RealTime>
+        <GameTime>00:02:23.6731888</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:23.6731888</RealTime>
+          <GameTime>00:02:23.6731888</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:18.5400000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:25.1141857</RealTime>
+          <GameTime>00:02:25.1141857</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bowser 1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:10:07.6283672</RealTime>
+          <GameTime>00:10:07.6283672</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:34.8140847</RealTime>
+        <GameTime>00:02:34.8140847</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:05:14.6051176</RealTime>
+          <GameTime>00:05:14.6051176</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:02.3700000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:34.8140847</RealTime>
+          <GameTime>00:02:34.8140847</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Desert</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:15.7179097</RealTime>
+          <GameTime>00:12:15.7179097</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:33.6328518</RealTime>
+        <GameTime>00:01:33.6328518</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:33.6328518</RealTime>
+          <GameTime>00:01:33.6328518</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:26.4600000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:08.0895425</RealTime>
+          <GameTime>00:02:08.0895425</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>LLL</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:52.7381246</RealTime>
+          <GameTime>00:12:52.7381246</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:37.0202149</RealTime>
+        <GameTime>00:00:37.0202149</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:23.9621702</RealTime>
+          <GameTime>00:01:23.9621702</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:00:40.4100000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:37.0202149</RealTime>
+          <GameTime>00:00:37.0202149</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Cavern</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:03.3870581</RealTime>
+          <GameTime>00:15:03.3870581</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:25.8822784</RealTime>
+        <GameTime>00:01:25.8822784</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:25.8822784</RealTime>
+          <GameTime>00:01:25.8822784</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:33.7000000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:10.6489335</RealTime>
+          <GameTime>00:02:10.6489335</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>DDD</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:05.5546076</RealTime>
+          <GameTime>00:17:05.5546076</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:02.1675495</RealTime>
+        <GameTime>00:02:02.1675495</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:30.9136497</RealTime>
+          <GameTime>00:02:30.9136497</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:02:14.1300000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:02:02.1675495</RealTime>
+          <GameTime>00:02:02.1675495</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bowser 2</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:18:50.3212325</RealTime>
+          <GameTime>00:18:50.3212325</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:44.7666249</RealTime>
+        <GameTime>00:01:44.7666249</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:02:23.5513350</RealTime>
+          <GameTime>00:02:23.5513350</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:52.8500000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:44.7666249</RealTime>
+          <GameTime>00:01:44.7666249</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Glitch</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:20:06.8565961</RealTime>
+          <GameTime>00:20:06.8565961</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:01.4700000</RealTime>
+        <GameTime>00:01:16.5353636</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:01:46.7178509</RealTime>
+          <GameTime>00:01:46.7178509</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:01.4700000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:01:16.5353636</RealTime>
+          <GameTime>00:01:16.5353636</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Bowser 3</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:23:22.3243643</RealTime>
+          <GameTime>00:23:22.3243643</GameTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:06.4300000</RealTime>
+        <GameTime>00:03:15.4677682</GameTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="2">
+          <RealTime>00:05:10.0198260</RealTime>
+          <GameTime>00:05:10.0198260</GameTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:03:53.3900000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:03:15.4677682</RealTime>
+          <GameTime>00:03:15.4677682</GameTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
