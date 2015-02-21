@@ -87,6 +87,19 @@
     <Type>Component</Type>
     <Description>Load Removal is available. (By Fatalis)</Description>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Resident Evil HD Remaster</Game>
+      <Game>Resident Evil / biohazard HD REMASTER</Game>
+      <Game>REmaster</Game>
+      <Game>REHD</Game>
+    </Games>
+    <URLs>
+      <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.REmaster.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Automatic Timer Start and Game Time is available. (By Fatalis)</Description>
+  </AutoSplitter>
   <!--<AutoSplitter>
     <Games>
       <Game>Super Mario 64</Game>
@@ -125,13 +138,34 @@
   </AutoSplitter>-->
   <AutoSplitter>
     <Games>
+      <Game>Darksiders</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Incalex/LiveSplit.AutoSplitters/master/LiveSplit.Darksiders.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Automatic Timer Start and Game Time is available. (By Incalex)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Love</Game>
+      <Game>Love+</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/madzinah/LiveSplits_Scripts/master/Love.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Automatic Timer Start and Auto Splitting is available. (By Madzinah)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
       <Game>Borderlands 2</Game>
     </Games>
     <URLs>
-      <URL>http://abahbob.com/livesplit/LiveSplit.BL2IGT.dll</URL>
+      <URL>http://abahbob.com/livesplit/LiveSplit.BL2IGT.asl</URL>
     </URLs>
-    <Type>Component</Type>
-    <Description>Load Removal is available. (By Abahbob)</Description>
+    <Type>Script</Type>
+    <Description>Load Removal is available for 1.1 and 1.8.3. (By Abahbob)</Description>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -162,6 +196,27 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
+      <Game>The Wheel of Time</Game>
+      <Game>Wheel of Time</Game>
+    </Games>
+    <URLs>
+      <URL>https://github.com/Dalet/LiveSplit.WheelOfTime/raw/master/Components/LiveSplit.WheelOfTime.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Auto Splitting and Load Removal are available. (By Dalet)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Wrack</Game>
+    </Games>
+    <URLs>
+      <URL>https://github.com/Dalet/LiveSplit.Wrack/raw/master/Components/LiveSplit.Wrack.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Auto Splitting and Game Time are available. (By Dalet)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
       <Game>The Elder Scrolls V: Skyrim</Game>
       <Game>Skyrim</Game>
       <Game>TESV</Game>
@@ -171,7 +226,7 @@
       <URL>https://github.com/drtchops/LiveSplit.Skyrim/raw/master/Components/LiveSplit.Skyrim.dll</URL>
     </URLs>
     <Type>Component</Type>
-    <Description>Load Removal is available. (By DrTChops)</Description>
+    <Description>Auto Splitting and Load Removal are available. (By DrTChops)</Description>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -179,6 +234,20 @@
     </Games>
     <URLs>
       <URL>https://github.com/drtchops/LiveSplit.Fallout3/raw/master/Components/LiveSplit.Fallout3.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Auto Splitting and Load Removal are available. (By DrTChops)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Deus Ex: Human Revolution</Game>
+      <Game>Deus Ex Human Revolution</Game>
+      <Game>Deus Ex HR</Game>
+      <Game>Deus Ex: HR</Game>
+      <Game>DXHR</Game>
+    </Games>
+    <URLs>
+      <URL>https://github.com/drtchops/LiveSplit.DXHR/raw/master/Components/LiveSplit.DXHR.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting and Load Removal are available. (By DrTChops)</Description>
@@ -195,5 +264,25 @@
     </URLs>
     <Type>Component</Type>
     <Description>Load Removal is available. (By Fatalis)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Psychonauts</Game>
+    </Games>
+    <URLs>
+      <URL>http://abahbob.com/livesplit/LiveSplit.Psychonauts.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By Abahbob)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Magnetic By Nature</Game>
+    </Games>
+    <URLs>
+      <URL>https://github.com/Seren-/LiveSplit.MagneticByNature/raw/master/Component/LiveSplit.MagneticByNature.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Auto Splitting and Load Removal are available (By 0Seren)</Description>
   </AutoSplitter>
 </AutoSplitters>
