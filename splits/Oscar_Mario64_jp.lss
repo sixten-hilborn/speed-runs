@@ -5,7 +5,7 @@
   </GameName>
   <CategoryName>Muper Sario 46</CategoryName>
   <Offset>00:00:00</Offset>
-  <AttemptCount>91</AttemptCount>
+  <AttemptCount>94</AttemptCount>
   <RunHistory>
     <Time id="1" />
     <Time id="2">
@@ -72,6 +72,9 @@
       <RealTime>00:21:59.5211634</RealTime>
       <GameTime>00:21:59.5211634</GameTime>
     </Time>
+    <Time id="39" />
+    <Time id="40" />
+    <Time id="41" />
   </RunHistory>
   <Segments>
     <Segment>
@@ -178,6 +181,14 @@
         <Time id="38">
           <RealTime>00:01:41.6867418</RealTime>
           <GameTime>00:01:41.6867418</GameTime>
+        </Time>
+        <Time id="40">
+          <RealTime>00:01:47.6321027</RealTime>
+          <GameTime>00:01:47.6321027</GameTime>
+        </Time>
+        <Time id="41">
+          <RealTime>00:02:41.7882723</RealTime>
+          <GameTime>00:02:41.7882723</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
