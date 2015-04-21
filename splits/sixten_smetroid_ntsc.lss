@@ -4,7 +4,7 @@
   <GameName>Super Metroid</GameName>
   <CategoryName>Any%</CategoryName>
   <Offset>00:00:00</Offset>
-  <AttemptCount>284</AttemptCount>
+  <AttemptCount>285</AttemptCount>
   <RunHistory>
     <Time id="1" />
     <Time id="2" />
@@ -303,6 +303,7 @@
       <RealTime>00:52:08.1869104</RealTime>
       <GameTime>00:52:08.1869104</GameTime>
     </Time>
+    <Time id="247" />
   </RunHistory>
   <Segments>
     <Segment>
@@ -890,6 +891,10 @@
           <RealTime>00:03:09.1505340</RealTime>
           <GameTime>00:03:09.1505340</GameTime>
         </Time>
+        <Time id="247">
+          <RealTime>00:03:10.3204010</RealTime>
+          <GameTime>00:03:10.3204010</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1377,6 +1382,10 @@
           <RealTime>00:01:54.1763281</RealTime>
           <GameTime>00:01:54.1763281</GameTime>
         </Time>
+        <Time id="247">
+          <RealTime>00:01:58.8909420</RealTime>
+          <GameTime>00:01:58.8909420</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1389,8 +1398,8 @@
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:01.7577170</RealTime>
-        <GameTime>00:02:01.7577170</GameTime>
+        <RealTime>00:02:00.1969339</RealTime>
+        <GameTime>00:02:00.1969339</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="1">
@@ -1803,6 +1812,10 @@
         <Time id="246">
           <RealTime>00:02:09.8877793</RealTime>
           <GameTime>00:02:09.8877793</GameTime>
+        </Time>
+        <Time id="247">
+          <RealTime>00:02:00.1969339</RealTime>
+          <GameTime>00:02:00.1969339</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
