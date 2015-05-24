@@ -5,7 +5,7 @@
   </GameName>
   <CategoryName>Super Metroid oscar</CategoryName>
   <Offset>00:00:00</Offset>
-  <AttemptCount>76</AttemptCount>
+  <AttemptCount>79</AttemptCount>
   <RunHistory>
     <Time id="1" />
     <Time id="2" />
@@ -94,15 +94,21 @@
       <RealTime>01:02:18.4555254</RealTime>
       <GameTime>01:02:18.4555254</GameTime>
     </Time>
+    <Time id="67" />
+    <Time id="68" />
+    <Time id="69">
+      <RealTime>01:00:04.4562374</RealTime>
+      <GameTime>01:00:04.4562374</GameTime>
+    </Time>
   </RunHistory>
   <Segments>
     <Segment>
       <Name>Morph ball</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAJgEAAAKJUE5HDQoaCgAAAA1JSERSAAAADwAAAA8IAgAAALS0Ah0AAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAAj0lEQVQoU5WS0RGAIAxDOw7D8ukE/ruKizgEtgZiED0Prh8FX0qJtSLLUt6PouEnHYANOU80oKTGiN6QtdWUFASNTYSvlLe0IHiCm6MuMnwAtK81qZqrRGWIoqqj0asIeEOQWriisEUFLD+28UDjAV/02Pc7rW7QFnUmuhg9UbQr7L7N+T39L+fmhFP2O4MnLN5ZCFOSLAcAAAAASUVORK5CYIIL]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAJgEAAAKJUE5HDQoaCgAAAA1JSERSAAAADwAAAA8IAgAAALS0Ah0AAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAAj0lEQVQoU5WS0RGAIAxDOw7D8ukE/ruKizgEtgZiED0Prh8FX0qJtSLLUt6PouEnHYANOU80oKTGiN6QtdWUFASNTYSvlLe0IHiCm6MuMnwAtK81qZqrRGWIoqqj0asIeEOQWriisEUFLD+28UDjAV/02Pc7rW7QFnUmuhg9UbQr7L7N+T39L+fmhFP2O4MnLN5ZCFOSLAcAAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:03:21.6739719</RealTime>
-          <GameTime>00:03:21.6739719</GameTime>
+          <RealTime>00:03:15.9680000</RealTime>
+          <GameTime>00:03:15.9680000</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -307,15 +313,23 @@
           <RealTime>00:03:21.6739719</RealTime>
           <GameTime>00:03:21.6739719</GameTime>
         </Time>
+        <Time id="67">
+          <RealTime>00:03:18.7605662</RealTime>
+          <GameTime>00:03:18.7605662</GameTime>
+        </Time>
+        <Time id="69">
+          <RealTime>00:03:15.9680000</RealTime>
+          <GameTime>00:03:15.9680000</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Bomb</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAnAEAAAKJUE5HDQoaCgAAAA1JSERSAAAADgAAABAIAgAAAKn22W0AAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAABBUlEQVQoU32SoY7CQBRFZ/+iEmRXYcFtUUWC4y+QpLZfgCQokkr0qkWCJSGhrggETSr4AMRwhltaIGybm9fX1/Nu503ny1rbD0bdjt/2v3thYIzxPY+Y5jlx87s+poftLv1br0zwM4wmEbFBAoxu9mrR4XRezBPPw7eWLMBMPI0GoUOz4hyHPspmTsrbLScAsBIVB2H3tdRQo8kyoYlIteTui1FeoQAGP1BaS0txD5qiXMH+RbHB9TPavIAX1+axHKqxtNyPm6W3bizta/WsIdRZudT7Ck0V8RWk8ZWrDuB+AceFaxCOUTyN36S6GEOWFZdkuQIikj9cX4pgDoVQtwSNnisCbndAVh0SWoTSAAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAnAEAAAKJUE5HDQoaCgAAAA1JSERSAAAADgAAABAIAgAAAKn22W0AAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAABBUlEQVQoU32SoY7CQBRFZ/+iEmRXYcFtUUWC4y+QpLZfgCQokkr0qkWCJSGhrggETSr4AMRwhltaIGybm9fX1/Nu503ny1rbD0bdjt/2v3thYIzxPY+Y5jlx87s+poftLv1br0zwM4wmEbFBAoxu9mrR4XRezBPPw7eWLMBMPI0GoUOz4hyHPspmTsrbLScAsBIVB2H3tdRQo8kyoYlIteTui1FeoQAGP1BaS0txD5qiXMH+RbHB9TPavIAX1+axHKqxtNyPm6W3bizta/WsIdRZudT7Ck0V8RWk8ZWrDuB+AceFaxCOUTyN36S6GEOWFZdkuQIikj9cX4pgDoVQtwSNnisCbndAVh0SWoTSAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:05:26.0096417</RealTime>
-          <GameTime>00:05:26.0096417</GameTime>
+          <RealTime>00:05:33.7015549</RealTime>
+          <GameTime>00:05:33.7015549</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -522,15 +536,19 @@
           <RealTime>00:02:04.3356698</RealTime>
           <GameTime>00:02:04.3356698</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:02:17.7335549</RealTime>
+          <GameTime>00:02:17.7335549</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Super missile</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAAyklEQVQ4T42R3RGCMBCEsQMfoQvtgDIsgTLyaAmUkU6kCyzBN9zwOTsxATRzA3eb2/vZnJZladbTdVd9QwiE0zThxBhx5vmRfiLotO1lHKNMTmHDEGSAqbqznXd/nm3cyuCUBMWkvtaDD+eLwCSerRjJuDifDiYote9vuhCiDnIUUosmG4R66V0CQtUdLF3ZQQSNURMEWqjtHeCwwI8drHq+yZFKEFQVlVx+V6W/OiBO/nAsgGIFrrDxs2++QA7CTwTUoDC1bQat2BvW+Fts/JVSRwAAAABJRU5ErkJgggs=]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAYQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAAyklEQVQ4T42R3RGCMBCEsQMfoQvtgDIsgTLyaAmUkU6kCyzBN9zwOTsxATRzA3eb2/vZnJZladbTdVd9QwiE0zThxBhx5vmRfiLotO1lHKNMTmHDEGSAqbqznXd/nm3cyuCUBMWkvtaDD+eLwCSerRjJuDifDiYote9vuhCiDnIUUosmG4R66V0CQtUdLF3ZQQSNURMEWqjtHeCwwI8drHq+yZFKEFQVlVx+V6W/OiBO/nAsgGIFrrDxs2++QA7CTwTUoDC1bQat2BvW+Fts/JVSRwAAAABJRU5ErkJgggs=]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:07:50.1809925</RealTime>
-          <GameTime>00:07:50.1809925</GameTime>
+          <RealTime>00:07:45.4457863</RealTime>
+          <GameTime>00:07:45.4457863</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -719,15 +737,19 @@
           <RealTime>00:02:24.1713508</RealTime>
           <GameTime>00:02:24.1713508</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:02:11.7442314</RealTime>
+          <GameTime>00:02:11.7442314</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Varia suit</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAaQEAAAKJUE5HDQoaCgAAAA1JSERSAAAADgAAAA0IAgAAABa+yCgAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA0klEQVQoU22RMRKCQAxFY8UV4AaWa2dJaUlpSSm30BtYcoy9ia034Arb4Vv+Ghg0k8mE5W34+RzqOnRdF0Lo+0tVVWbWNCfqNL2oxDA8qDFGu93u0CRNSommPxqpw7a9wultQfUMAU28z0+/oNkc2jzPXBUHQWq8eo3XSUaJLZoWVT5bfRbwy2UFG1oc2D80GqjT0lBQDZY4UlxulnlUiSxa2czX8s3g5MmKZslfs3ac3BW9+grNHd9XkEwVvf9b0qc93HIexzEWh+ncFEEe+hT0B1e8CPZNKwcwAAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAaQEAAAKJUE5HDQoaCgAAAA1JSERSAAAADgAAAA0IAgAAABa+yCgAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA0klEQVQoU22RMRKCQAxFY8UV4AaWa2dJaUlpSSm30BtYcoy9ia034Arb4Vv+Ghg0k8mE5W34+RzqOnRdF0Lo+0tVVWbWNCfqNL2oxDA8qDFGu93u0CRNSommPxqpw7a9wultQfUMAU28z0+/oNkc2jzPXBUHQWq8eo3XSUaJLZoWVT5bfRbwy2UFG1oc2D80GqjT0lBQDZY4UlxulnlUiSxa2czX8s3g5MmKZslfs3ac3BW9+grNHd9XkEwVvf9b0qc93HIexzEWh+ncFEEe+hT0B1e8CPZNKwcwAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:11:50.8489721</RealTime>
-          <GameTime>00:11:50.8489721</GameTime>
+          <RealTime>00:11:42.8042990</RealTime>
+          <GameTime>00:11:42.8042990</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -906,13 +928,20 @@
           <RealTime>00:04:00.6679796</RealTime>
           <GameTime>00:04:00.6679796</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:03:57.3585127</RealTime>
+          <GameTime>00:03:57.3585127</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Hi-jump</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAPwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAAqElEQVQ4T31SyxWAMAir2+hWOpkrdBtX8Vb5PaAR5fUQK4GQsowxmsSxLQoozssu4Z7/EUFjX9tN0RsBxt1OxnQZhC+OFeJiXA4J7z6ZQHgiRJOkLQiiFglvTh6GHfKhy+ndA3XimyDdNZs7pCg6mCrJA4vqGZQQHZIBhaScClgVTi89CQBn5eGNALvgPiqIueWz8CF7YnO7UUr4OfAOLAmW0TN8hWFzH3s1wQ+ZRKJlAAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAPwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAAqElEQVQ4T31SyxWAMAir2+hWOpkrdBtX8Vb5PaAR5fUQK4GQsowxmsSxLQoozssu4Z7/EUFjX9tN0RsBxt1OxnQZhC+OFeJiXA4J7z6ZQHgiRJOkLQiiFglvTh6GHfKhy+ndA3XimyDdNZs7pCg6mCrJA4vqGZQQHZIBhaScClgVTi89CQBn5eGNALvgPiqIueWz8CF7YnO7UUr4OfAOLAmW0TN8hWFzH3s1wQ+ZRKJlAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:13:39.2900152</RealTime>
+          <GameTime>00:13:39.2900152</GameTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:01:54.8041249</RealTime>
@@ -1076,15 +1105,20 @@
         <Time id="64" />
         <Time id="-8" />
         <Time id="66" />
+        <Time id="-9" />
+        <Time id="69">
+          <RealTime>00:01:56.4857162</RealTime>
+          <GameTime>00:01:56.4857162</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Speed boost</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAewEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA5ElEQVQ4T5WSsRHCMAxFwwaM4NIlJaVL6MIWlNAxQjpaRqCDDsqM4TIlI9CF7/zcj61wx6FTdEnufVmytOj7/rjdeeerwUIIiK5Osbu3iG2bIix28fy4VYdNDV85/9NJJgHQ92Dx+rzsT8wn8+uGDqwQzGmhyDUJkBJSQ+coaQrS+RSokhxtXkvRqLAQ4NtkNfQkQDGQkmbrMv5U96y8wkOUKfmi9Pl1jQL2oBNIz+v50oPaMIeoKtu0mZSKVCejgJM2081Py+cwTXou4B/1VqzGf8uH9YYAd0XHLcO1i1wZOjDAH0B6C4hgqGKsAAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAewEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA5ElEQVQ4T5WSsRHCMAxFwwaM4NIlJaVL6MIWlNAxQjpaRqCDDsqM4TIlI9CF7/zcj61wx6FTdEnufVmytOj7/rjdeeerwUIIiK5Osbu3iG2bIix28fy4VYdNDV85/9NJJgHQ92Dx+rzsT8wn8+uGDqwQzGmhyDUJkBJSQ+coaQrS+RSokhxtXkvRqLAQ4NtkNfQkQDGQkmbrMv5U96y8wkOUKfmi9Pl1jQL2oBNIz+v50oPaMIeoKtu0mZSKVCejgJM2081Py+cwTXou4B/1VqzGf8uH9YYAd0XHLcO1i1wZOjDAH0B6C4hgqGKsAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:15:57.8102235</RealTime>
-          <GameTime>00:15:57.8102235</GameTime>
+          <RealTime>00:15:41.2984723</RealTime>
+          <GameTime>00:15:41.2984723</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -1267,15 +1301,23 @@
           <RealTime>00:04:06.9612514</RealTime>
           <GameTime>00:04:06.9612514</GameTime>
         </Time>
+        <Time id="-9">
+          <RealTime>00:04:06.9612514</RealTime>
+          <GameTime>00:04:06.9612514</GameTime>
+        </Time>
+        <Time id="69">
+          <RealTime>00:02:02.0084571</RealTime>
+          <GameTime>00:02:02.0084571</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Wave beam</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAjwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA+ElEQVQ4T42SIRLCMBBF05sUF1zrKpE4OAKOSiQ3wOJAIivBcQQctrLHqAs/88vvNlTQyWR2tv/t5m+ShRDc9ysXS4Qr733u95cT4kdW+mrH/+3rtglvB4BfkfvDeot1rY+Ikbm7oq3Ofd93TYeFGJkJAB3UAqBAYQDYAcQmyLA2RKitJuxAgNIRsOpZIB7DOe6xBEXY0Vqx9WDLR8yKaBoZAvKNwnQcR0oFPcgxYk0vCSIgNU7FEWkGyTyQnwDSsZXFdD+Dh9+x0omWBCPAlEzbW+dgKBiBtnn+www3zQIwzcJJHyXjM7EvT0ZnAQ5w8viSIyW+eZsfzvQ4JAh7wrUAAAAASUVORK5CYIIL]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAjwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA+ElEQVQ4T42SIRLCMBBF05sUF1zrKpE4OAKOSiQ3wOJAIivBcQQctrLHqAs/88vvNlTQyWR2tv/t5m+ShRDc9ysXS4Qr733u95cT4kdW+mrH/+3rtglvB4BfkfvDeot1rY+Ikbm7oq3Ofd93TYeFGJkJAB3UAqBAYQDYAcQmyLA2RKitJuxAgNIRsOpZIB7DOe6xBEXY0Vqx9WDLR8yKaBoZAvKNwnQcR0oFPcgxYk0vCSIgNU7FEWkGyTyQnwDSsZXFdD+Dh9+x0omWBCPAlEzbW+dgKBiBtnn+www3zQIwzcJJHyXjM7EvT0ZnAQ5w8viSIyW+eZsfzvQ4JAh7wrUAAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:17:07.8215599</RealTime>
-          <GameTime>00:17:07.8215599</GameTime>
+          <RealTime>00:16:44.9914887</RealTime>
+          <GameTime>00:16:44.9914887</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -1447,15 +1489,19 @@
           <RealTime>00:01:10.0113364</RealTime>
           <GameTime>00:01:10.0113364</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:01:03.6930164</RealTime>
+          <GameTime>00:01:03.6930164</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Power bomb</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAFwEAAAKJUE5HDQoaCgAAAA1JSERSAAAADAAAAA0IAgAAABJLGBUAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAAgElEQVQoU41QwRGAIAyrW8gGPnUjR3A0n27hGKzAD4uREHnRK3dtE9qmU87ZqoWwMY7xZmxOcpvnFZ5Oc2cKtJC8tC/mTkwrhYScDdJrbImf5V2HFUSmfKRa7Em/TkrScZ2CNg4Aci6nOtriKo3n6Dth8SZTdIzdafTi4ClbKx4/XmevHY811isAAAAASUVORK5CYIIL]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAFwEAAAKJUE5HDQoaCgAAAA1JSERSAAAADAAAAA0IAgAAABJLGBUAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAAgElEQVQoU41QwRGAIAyrW8gGPnUjR3A0n27hGKzAD4uREHnRK3dtE9qmU87ZqoWwMY7xZmxOcpvnFZ5Oc2cKtJC8tC/mTkwrhYScDdJrbImf5V2HFUSmfKRa7Em/TkrScZ2CNg4Aci6nOtriKo3n6Dth8SZTdIzdafTi4ClbKx4/XmevHY811isAAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:20:18.1595083</RealTime>
-          <GameTime>00:20:18.1595083</GameTime>
+          <RealTime>00:20:07.0950246</RealTime>
+          <GameTime>00:20:07.0950246</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -1562,6 +1608,10 @@
           <RealTime>00:03:10.3379484</RealTime>
           <GameTime>00:03:10.3379484</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:03:22.1035359</RealTime>
+          <GameTime>00:03:22.1035359</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -1569,8 +1619,8 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:24:10.6820305</RealTime>
-          <GameTime>00:24:10.6820305</GameTime>
+          <RealTime>00:24:24.0597156</RealTime>
+          <GameTime>00:24:24.0597156</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -1643,15 +1693,19 @@
           <RealTime>00:03:52.5225222</RealTime>
           <GameTime>00:03:52.5225222</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:04:16.9646910</RealTime>
+          <GameTime>00:04:16.9646910</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Gravity suit</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAfgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA50lEQVQ4T22SsRXCMBBDzRbJBpSwQUZwSUmZkhEYI2OkZAtaNsgK7oLMN8JxuOeXp5wl3Z3tw7qu4Rt9fxaMMer7+oTAsjxNyEACRdedtMbxPk1zSklfYa1huLAFLbubneZggTTCj1vONJoiEFvb2BP6JWlNqaBy2tCq2RZY48aCkGxwArgURdC4sYxoHaoZypD8L8AetjvkoLBvK+wFNMnEG4FmoKumJZ+PvZk7D20PD+02tEXyd0pcnPqulbUFI/myy8UxcaPxMVyPWwFFrKG6SHjX7PKW/LCgeonasFuBH6I19jJ4A4XQZ6W428DkAAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAfgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA50lEQVQ4T22SsRXCMBBDzRbJBpSwQUZwSUmZkhEYI2OkZAtaNsgK7oLMN8JxuOeXp5wl3Z3tw7qu4Rt9fxaMMer7+oTAsjxNyEACRdedtMbxPk1zSklfYa1huLAFLbubneZggTTCj1vONJoiEFvb2BP6JWlNqaBy2tCq2RZY48aCkGxwArgURdC4sYxoHaoZypD8L8AetjvkoLBvK+wFNMnEG4FmoKumJZ+PvZk7D20PD+02tEXyd0pcnPqulbUFI/myy8UxcaPxMVyPWwFFrKG6SHjX7PKW/LCgeonasFuBH6I19jJ4A4XQZ6W428DkAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:27:09.2536970</RealTime>
-          <GameTime>00:27:09.2536970</GameTime>
+          <RealTime>00:27:24.8592907</RealTime>
+          <GameTime>00:27:24.8592907</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -1728,20 +1782,24 @@
           <RealTime>00:02:58.5716665</RealTime>
           <GameTime>00:02:58.5716665</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:03:00.7995751</RealTime>
+          <GameTime>00:03:00.7995751</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Maridia Tank</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAbgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA10lEQVQ4T4VSsRHCMAwUW8AGYYvQUVJSUlJmBEbIGJSU6aCkpGMEVnBnXvc+IcsBfIovlv6tl+RFzllEVusN9q3csLdrkh7O1/OqIRCWXb/bH7FPg8yaAfR2HjwhuYUbcYXHCNHDaYQ3XUQtJa8KHoQAIFIJ5/sDFgimjQRiCoESlFAv5AHIh2IGXuMlQQmTVxngbWsIkogpGdqiTRpUxaLbtobBxbba4IA7dPOGEAelg8NHzl8jshA8jf/fPBWBffCE1lMen5XO9rFL1koW8KmBB3tUvwlv06VnUtUVv/QAAAAASUVORK5CYIIL]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAbgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA10lEQVQ4T4VSsRHCMAwUW8AGYYvQUVJSUlJmBEbIGJSU6aCkpGMEVnBnXvc+IcsBfIovlv6tl+RFzllEVusN9q3csLdrkh7O1/OqIRCWXb/bH7FPg8yaAfR2HjwhuYUbcYXHCNHDaYQ3XUQtJa8KHoQAIFIJ5/sDFgimjQRiCoESlFAv5AHIh2IGXuMlQQmTVxngbWsIkogpGdqiTRpUxaLbtobBxbba4IA7dPOGEAelg8NHzl8jshA8jf/fPBWBffCE1lMen5XO9rFL1koW8KmBB3tUvwlv06VnUtUVv/QAAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:31:14.9950297</RealTime>
-          <GameTime>00:31:14.9950297</GameTime>
+          <RealTime>00:31:19.8764084</RealTime>
+          <GameTime>00:31:19.8764084</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:05.7413327</RealTime>
-        <GameTime>00:04:05.7413327</GameTime>
+        <RealTime>00:03:55.0171177</RealTime>
+        <GameTime>00:03:55.0171177</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
@@ -1851,20 +1909,24 @@
           <RealTime>00:04:05.7413327</RealTime>
           <GameTime>00:04:05.7413327</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:03:55.0171177</RealTime>
+          <GameTime>00:03:55.0171177</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Space Jump</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAawEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA1ElEQVQ4T5WRyxHCMAxESReUkHQAJdACV7hRAX3kyJUGUky40QgHs5tVZNkkmcHjmeizT5aU5tLucB6vxM/muXYN8wDSJ70PPY2VgxQEkLE6NHLSwGiFmXSwohAToGgKiREmKWvNKdWyNpSopI4ppX4NUD0p4mvOeKt5UAE2D9qbNpGD8z4yEBv4ncf3V6wyzhqnj9uudx8ZG6n8OQUw3kdt2S9cBZdburXnKg0XwVXguO+Qfp56GLgw4MLYApxx9QKgeiim8uxq+g8whOkdkRz6L+ALm/vguRh3yvQAAAAASUVORK5CYIIL]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAawEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA1ElEQVQ4T5WRyxHCMAxESReUkHQAJdACV7hRAX3kyJUGUky40QgHs5tVZNkkmcHjmeizT5aU5tLucB6vxM/muXYN8wDSJ70PPY2VgxQEkLE6NHLSwGiFmXSwohAToGgKiREmKWvNKdWyNpSopI4ppX4NUD0p4mvOeKt5UAE2D9qbNpGD8z4yEBv4ncf3V6wyzhqnj9uudx8ZG6n8OQUw3kdt2S9cBZdburXnKg0XwVXguO+Qfp56GLgw4MLYApxx9QKgeiim8uxq+g8whOkdkRz6L+ALm/vguRh3yvQAAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:35:52.0461231</RealTime>
-          <GameTime>00:35:52.0461231</GameTime>
+          <RealTime>00:34:04.9088066</RealTime>
+          <GameTime>00:34:04.9088066</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:02:55.0170155</RealTime>
-        <GameTime>00:02:55.0170155</GameTime>
+        <RealTime>00:02:45.0323982</RealTime>
+        <GameTime>00:02:45.0323982</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="2">
@@ -1966,15 +2028,19 @@
           <RealTime>00:04:37.0510934</RealTime>
           <GameTime>00:04:37.0510934</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:02:45.0323982</RealTime>
+          <GameTime>00:02:45.0323982</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Plasma  beam</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAZwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA0ElEQVQ4T32SsRHCQAwEFRISugU6gBCXQQuOaIchpR2HJJRAEeZm9n0vyzP8KJDfd5Lu9LHszmmYpvOL6+FxuX2OhHLdRMGDnr8dHeuB0wlAn/e30MrFEEK58HQgaQQhwEErhNbjuhJAGJ0JLmwlQUlC8xB0QLFHahoyzoR/LgGigwr7c283NwHaojO/aMPAiMOI6zq5A7+LPAE2e/BsqkIrcRTZib4Hz2bf7AG+cd8JeWvOXcWzbd6S15clFen18dnNPJg5faTsuh9s3qNX+QO5E7VajTgo3gAAAABJRU5ErkJgggs=]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAZwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA0ElEQVQ4T32SsRHCQAwEFRISugU6gBCXQQuOaIchpR2HJJRAEeZm9n0vyzP8KJDfd5Lu9LHszmmYpvOL6+FxuX2OhHLdRMGDnr8dHeuB0wlAn/e30MrFEEK58HQgaQQhwEErhNbjuhJAGJ0JLmwlQUlC8xB0QLFHahoyzoR/LgGigwr7c283NwHaojO/aMPAiMOI6zq5A7+LPAE2e/BsqkIrcRTZib4Hz2bf7AG+cd8JeWvOXcWzbd6S15clFen18dnNPJg5faTsuh9s3qNX+QO5E7VajTgo3gAAAABJRU5ErkJgggs=]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:37:45.1065876</RealTime>
-          <GameTime>00:37:45.1065876</GameTime>
+          <RealTime>00:36:02.2066427</RealTime>
+          <GameTime>00:36:02.2066427</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -2075,13 +2141,20 @@
           <RealTime>00:01:53.0604645</RealTime>
           <GameTime>00:01:53.0604645</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:01:57.2978361</RealTime>
+          <GameTime>00:01:57.2978361</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Ice beam</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAhAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA7UlEQVQ4T42SsRGCQBBFzy4wM9QODLEDQkowgxIo4cgsgdAOTA3NTMlsgQz/zXOWnRNnvNnZOZb/d/d/2MzzHNzZHk48vZ435b7vh7GiUu+uTdMEETjFvlRU9Xm4P9ouqhJjPLZjHMaivCine4yJYFAIQiurDlqh9lxUCbRUnqYJgkKXnwTQDPmL4HG0twnrGrQJS9soI5hurY7iZKkJ9bvh0uoJTBBNGY5fLFP1mQD6W7rpwTROstXQWW+zzu+WNNhcMYmMmRN4LZz0ICnj8HZZyQsFigFMtqzKoiGT4W3IzE0aWMZ/B34t6+I5b345fQfCacNyAAAAAElFTkSuQmCCCw==]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAhAEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA7UlEQVQ4T42SsRGCQBBFzy4wM9QODLEDQkowgxIo4cgsgdAOTA3NTMlsgQz/zXOWnRNnvNnZOZb/d/d/2MzzHNzZHk48vZ435b7vh7GiUu+uTdMEETjFvlRU9Xm4P9ouqhJjPLZjHMaivCine4yJYFAIQiurDlqh9lxUCbRUnqYJgkKXnwTQDPmL4HG0twnrGrQJS9soI5hurY7iZKkJ9bvh0uoJTBBNGY5fLFP1mQD6W7rpwTROstXQWW+zzu+WNNhcMYmMmRN4LZz0ICnj8HZZyQsFigFMtqzKoiGT4W3IzE0aWMZ/B34t6+I5b345fQfCacNyAAAAAElFTkSuQmCCCw==]]></Icon>
       <SplitTimes>
-        <SplitTime name="Personal Best" />
+        <SplitTime name="Personal Best">
+          <RealTime>00:38:23.4817837</RealTime>
+          <GameTime>00:38:23.4817837</GameTime>
+        </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:02:14.6605260</RealTime>
@@ -2140,6 +2213,11 @@
           <GameTime>00:02:19.5896420</GameTime>
         </Time>
         <Time id="66" />
+        <Time id="-9" />
+        <Time id="69">
+          <RealTime>00:02:21.2751410</RealTime>
+          <GameTime>00:02:21.2751410</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2147,13 +2225,13 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:41:51.2427931</RealTime>
-          <GameTime>00:41:51.2427931</GameTime>
+          <RealTime>00:40:01.2322829</RealTime>
+          <GameTime>00:40:01.2322829</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:01:46.0465417</RealTime>
-        <GameTime>00:01:46.0465417</GameTime>
+        <RealTime>00:01:37.7504992</RealTime>
+        <GameTime>00:01:37.7504992</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="23">
@@ -2215,20 +2293,28 @@
           <RealTime>00:04:06.1362055</RealTime>
           <GameTime>00:04:06.1362055</GameTime>
         </Time>
+        <Time id="-9">
+          <RealTime>00:04:06.1362055</RealTime>
+          <GameTime>00:04:06.1362055</GameTime>
+        </Time>
+        <Time id="69">
+          <RealTime>00:01:37.7504992</RealTime>
+          <GameTime>00:01:37.7504992</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Ridley tank</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAbgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA10lEQVQ4T4VSsRHCMAwUW8AGYYvQUVJSUlJmBEbIGJSU6aCkpGMEVnBnXvc+IcsBfIovlv6tl+RFzllEVusN9q3csLdrkh7O1/OqIRCWXb/bH7FPg8yaAfR2HjwhuYUbcYXHCNHDaYQ3XUQtJa8KHoQAIFIJ5/sDFgimjQRiCoESlFAv5AHIh2IGXuMlQQmTVxngbWsIkogpGdqiTRpUxaLbtobBxbba4IA7dPOGEAelg8NHzl8jshA8jf/fPBWBffCE1lMen5XO9rFL1koW8KmBB3tUvwlv06VnUtUVv/QAAAAASUVORK5CYIIL]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAbgEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA10lEQVQ4T4VSsRHCMAwUW8AGYYvQUVJSUlJmBEbIGJSU6aCkpGMEVnBnXvc+IcsBfIovlv6tl+RFzllEVusN9q3csLdrkh7O1/OqIRCWXb/bH7FPg8yaAfR2HjwhuYUbcYXHCNHDaYQ3XUQtJa8KHoQAIFIJ5/sDFgimjQRiCoESlFAv5AHIh2IGXuMlQQmTVxngbWsIkogpGdqiTRpUxaLbtobBxbba4IA7dPOGEAelg8NHzl8jshA8jf/fPBWBffCE1lMen5XO9rFL1koW8KmBB3tUvwlv06VnUtUVv/QAAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:47:05.3176570</RealTime>
-          <GameTime>00:47:05.3176570</GameTime>
+          <RealTime>00:44:28.2118813</RealTime>
+          <GameTime>00:44:28.2118813</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:04:28.0422056</RealTime>
-        <GameTime>00:04:28.0422056</GameTime>
+        <RealTime>00:04:26.9795984</RealTime>
+        <GameTime>00:04:26.9795984</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-5">
@@ -2254,6 +2340,10 @@
           <RealTime>00:05:14.0748639</RealTime>
           <GameTime>00:05:14.0748639</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:04:26.9795984</RealTime>
+          <GameTime>00:04:26.9795984</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
@@ -2261,13 +2351,13 @@
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:52:55.3425672</RealTime>
-          <GameTime>00:52:55.3425672</GameTime>
+          <RealTime>00:50:10.4627688</RealTime>
+          <GameTime>00:50:10.4627688</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
-        <RealTime>00:05:50.0249102</RealTime>
-        <GameTime>00:05:50.0249102</GameTime>
+        <RealTime>00:05:42.2508875</RealTime>
+        <GameTime>00:05:42.2508875</GameTime>
       </BestSegmentTime>
       <SegmentHistory>
         <Time id="-3" />
@@ -2299,15 +2389,19 @@
           <RealTime>00:05:50.0249102</RealTime>
           <GameTime>00:05:50.0249102</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:05:42.2508875</RealTime>
+          <GameTime>00:05:42.2508875</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>1 hp</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAkQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAA+klEQVQ4T32RvQ3CQAxGjw0yAnSUoaNkhAwAEhuQERghbMAIGSEbMAKUlGwQ3umdnAASkRX5vh/77FuM45g+v81lFcDtdP9iEwa/apvOQ8W/7pbD80qQBBiyYoBTTQRnFT0IxDM9L9OkCuSalgSJx7kgG+hu4bnuy4kAWe5gpmG3rgmkOklEbKIsj+hwXiDU4YlbqSyG1WEfChIL20QcQTFQ2P3A2co+hls2QVa25Mo5Gyr0BzgNjUmCO3Tn5vXo9AhyBISKpyjPdKwzx58Y+tYZSESkpofLT9G3hIl7dMsBmpQZ5rqoJO0xnJPBiyr6/Rzvo4Nl/hiCegMsm4x+yneY7AAAAABJRU5ErkJgggs=]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAkQEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAABAIAgAAAJCRaDYAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAA+klEQVQ4T32RvQ3CQAxGjw0yAnSUoaNkhAwAEhuQERghbMAIGSEbMAKUlGwQ3umdnAASkRX5vh/77FuM45g+v81lFcDtdP9iEwa/apvOQ8W/7pbD80qQBBiyYoBTTQRnFT0IxDM9L9OkCuSalgSJx7kgG+hu4bnuy4kAWe5gpmG3rgmkOklEbKIsj+hwXiDU4YlbqSyG1WEfChIL20QcQTFQ2P3A2co+hls2QVa25Mo5Gyr0BzgNjUmCO3Tn5vXo9AhyBISKpyjPdKwzx58Y+tYZSESkpofLT9G3hIl7dMsBmpQZ5rqoJO0xnJPBiyr6/Rzvo4Nl/hiCegMsm4x+yneY7AAAAABJRU5ErkJgggs=]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>00:55:51.8556667</RealTime>
-          <GameTime>00:55:51.8556667</GameTime>
+          <RealTime>00:53:08.6663237</RealTime>
+          <GameTime>00:53:08.6663237</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -2364,16 +2458,17 @@
           <RealTime>00:02:56.5130995</RealTime>
           <GameTime>00:02:56.5130995</GameTime>
         </Time>
+        <Time id="69">
+          <RealTime>00:02:58.2035549</RealTime>
+          <GameTime>00:02:58.2035549</GameTime>
+        </Time>
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Rainbow Beam</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:58:37.9980089</RealTime>
-          <GameTime>00:58:37.9980089</GameTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime>
         <RealTime>00:02:46.1423422</RealTime>
@@ -2394,15 +2489,16 @@
           <RealTime>00:02:46.1423422</RealTime>
           <GameTime>00:02:46.1423422</GameTime>
         </Time>
+        <Time id="69" />
       </SegmentHistory>
     </Segment>
     <Segment>
       <Name>Fuck this I'm out</Name>
-      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAAAkIAgAAALRIO2UAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7CAAAOwgEVKEqAAAAApElEQVQoU1WQuxHDMAxDUap06TalS62hMiu4TOkVXGYNl55ReTxYn+h4OhAESEqq01mVPm9xmwO80khNquvvK2pWEEnCfO6Rfs8hexBqWLe3grDZGMGYQKGzKHQVp9q3kkMKZtQwkFNwM8wYGAWjenD38GLhhnJLG8JTDwLQSwY0YoMIr64GzPgNM/n3S5E0v3v75Fzmrx//BbssGxE9m9PMbPgBNV2yT7+bWEMAAAAASUVORK5CYIIL]]></Icon>
+      <Icon><![CDATA[AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAOwEAAAKJUE5HDQoaCgAAAA1JSERSAAAAEAAAAAkIAgAAALRIO2UAAAABc1JHQgCuzhzpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAApElEQVQoU1WQuxHDMAxDUap06TalS62hMiu4TOkVXGYNl55ReTxYn+h4OhAESEqq01mVPm9xmwO80khNquvvK2pWEEnCfO6Rfs8hexBqWLe3grDZGMGYQKGzKHQVp9q3kkMKZtQwkFNwM8wYGAWjenD38GLhhnJLG8JTDwLQSwY0YoMIr64GzPgNM/n3S5E0v3v75Fzmrx//BbssGxE9m9PMbPgBNV2yT7+bWEMAAAAASUVORK5CYIIL]]></Icon>
       <SplitTimes>
         <SplitTime name="Personal Best">
-          <RealTime>01:02:18.4555254</RealTime>
-          <GameTime>01:02:18.4555254</GameTime>
+          <RealTime>01:00:04.4562374</RealTime>
+          <GameTime>01:00:04.4562374</GameTime>
         </SplitTime>
       </SplitTimes>
       <BestSegmentTime>
@@ -2452,6 +2548,10 @@
         <Time id="66">
           <RealTime>00:03:40.4575165</RealTime>
           <GameTime>00:03:40.4575165</GameTime>
+        </Time>
+        <Time id="69">
+          <RealTime>00:06:55.7899137</RealTime>
+          <GameTime>00:06:55.7899137</GameTime>
         </Time>
       </SegmentHistory>
     </Segment>
