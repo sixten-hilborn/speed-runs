@@ -1,25 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AutoSplitters>
-  <!--<AutoSplitter>
-    <Games>
-      <Game>The Legend of Zelda: Ocarina of Time</Game>
-    </Games>
-    <URL>http://livesplit.org/update/Components/LiveSplit.OcarinaOfTime.dll</URL>
-    <Type>Component</Type>
-    <Description>Auto Splitting and Game Time for NTSC 1.0 and 1.2 on Emulator are available. (By CryZe)</Description>
-  </AutoSplitter>
-  <AutoSplitter>
-    <Games>
-      <Game>Night Sky</Game>
-    </Games>
-    <URL>http://livesplit.org/update/Components/LiveSplit.NightSky.dll</URL>
-    <Type>Component</Type>
-    <Description>Auto Splitting and Game Time are available. (By CryZe)</Description>
-  </AutoSplitter>-->
   <AutoSplitter>
     <Games>
       <Game>Aperture Tag</Game>
       <Game>Aperture Tag: The Paint Gun Testing Initiative</Game>
+      <Game>Aperture Tag (Portal 2 Mod)</Game>
+      <Game>Black Mesa: Source</Game>
+      <Game>Black Mesa</Game>
+      <Game>Black Mesa (MOD Version)</Game>
+      <Game>Blue Portals</Game>
       <Game>Dark Messiah of Might and Magic</Game>
       <Game>Dear Esther</Game>
       <Game>E.Y.E: Divine Cybermancy</Game>
@@ -27,22 +16,31 @@
       <Game>Half-Life 2: Episode One</Game>
       <Game>Half-Life 2: Episode Two</Game>
       <Game>Half-Life 2: Lost Coast</Game>
+      <Game>Half-Life 2: Sniper's Episode</Game>
+      <Game>Half-Life 2: Ghosting Mod</Game>
+      <Game>Half-Life 2 Mods</Game>
       <Game>Portal</Game>
+      <Game>Portal: Prelude</Game>
+      <Game>Portal Mods</Game>
+      <Game>Rexaura</Game>
       <Game>Portal 2</Game>
+      <Game>Portal Stories: Mel</Game>
+      <Game>Source Mods</Game>
     </Games>
     <URLs>
       <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.SourceSplit.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Game Time and Auto Splitting are available. (By Fatalis)</Description>
+    <Website>https://github.com/fatalis/sourcesplit/blob/master/README.md</Website>
     <ShowInLayoutEditor />
   </AutoSplitter>
   <AutoSplitter>
     <Games>
       <Game>A Hat in Time</Game>
-      <Game>A Hat in Time: Beta</Game>
+      <Game>A Hat in Time (Beta)</Game>
       <Game>A Hat in Time Beta</Game>
-      <Game>A Hat in Time: Beta Build</Game>
+      <Game>A Hat in Time (Beta Build)</Game>
       <Game>A Hat in Time Beta Build</Game>
       <Game>AHiT</Game>
     </Games>
@@ -90,17 +88,22 @@
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting is available. (By Fatalis)</Description>
+    <Website>https://github.com/fatalis/halosplit/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
       <Game>Mirror's Edge</Game>
       <Game>Mirrors Edge</Game>
+      <Game>Mirror's Edge (PC)</Game>
     </Games>
     <URLs>
       <URL>http://fatalis.pw/livesplit/update/Components/LiveSplit.MirrorsEdgeNoLoads.dll</URL>
+      <URL>http://fatalis.pw/livesplit/update/Components/menl_hooks.dll</URL>
+      <URL>http://fatalis.pw/livesplit/update/Components/menl_findloadlibrary.exe</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Load Removal is available. (By Fatalis)</Description>
+    <Website>https://github.com/fatalis/MENL/blob/master/readme.txt</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -115,42 +118,6 @@
     <Type>Script</Type>
     <Description>Automatic Timer Start and Game Time is available. (By Fatalis)</Description>
   </AutoSplitter>
-  <!--<AutoSplitter>
-    <Games>
-      <Game>Super Mario 64</Game>
-    </Games>
-    <URL>http://livesplit.org/update/ASL/LiveSplit.SuperMario64.asl</URL>
-    <Type>Script</Type>
-    <Description>Auto Splitting is available for Emulator. (By CryZe)</Description>
-  </AutoSplitter>
-  <AutoSplitter>
-    <Games>
-      <Game>Super Mario World 2: Yoshi's Island</Game>
-      <Game>Yoshi's Island</Game>
-    </Games>
-    <URL>http://livesplit.org/update/ASL/LiveSplit.YoshisIsland.asl</URL>
-    <Type>Script</Type>
-    <Description>Auto Splitting is available for Emulator. (By CryZe)</Description>
-  </AutoSplitter>
-  <AutoSplitter>
-    <Games>
-      <Game>Octodad</Game>
-	  <Game>Octodad: DC</Game>
-	  <Game>Octodad: Deadliest Catch</Game>
-    </Games>
-    <URL>http://livesplit.org/update/ASL/LiveSplit.Octodad.asl</URL>
-    <Type>Script</Type>
-    <Description>Auto Splitting is available. (By CryZe)</Description>
-  </AutoSplitter>
-  <AutoSplitter>
-    <Games>
-      <Game>Crypt of the Necrodancer</Game>
-	  <Game>Necrodancer</Game>
-    </Games>
-    <URL>http://livesplit.org/update/ASL/LiveSplit.Necrodancer.asl</URL>
-    <Type>Script</Type>
-    <Description>Auto Splitting is available. (By CryZe)</Description>
-  </AutoSplitter>-->
   <AutoSplitter>
     <Games>
       <Game>Darksiders</Game>
@@ -185,12 +152,24 @@
   <AutoSplitter>
     <Games>
       <Game>Borderlands: The Pre-Sequel!</Game>
+      <Game>Borderlands: The Pre-Sequel</Game>
     </Games>
     <URLs>
       <URL>http://abahbob.com/livesplit/LiveSplit.BLTPS.asl</URL>
     </URLs>
     <Type>Script</Type>
     <Description>Auto-reset, Start, and Load Removal. (By drMalcom)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Sonic Adventure 2 Battle</Game>
+      <Game>SA2B</Game>
+    </Games>
+    <URLs>
+      <URL>http://abahbob.com/livesplit/LiveSplit.SA2B.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By ShiningFace)</Description>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -204,41 +183,26 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
-      <Game>The Legend of Zelda: The Minish Cap</Game>
-      <Game>Legend of Zelda: The Minish Cap</Game>
-      <Game>Legend of Zelda: Minish Cap</Game>
-      <Game>The Legend of Zelda: Minish Cap</Game>
-      <Game>The Legend of Zelda: TMC</Game>
-      <Game>TMC</Game>
-      <Game>The Minish Cap</Game>
-      <Game>Minish Cap</Game>
-    </Games>
-    <URLs>
-      <URL>http://livesplit.org/update/Components/LiveSplit.TheMinishCap.dll</URL>
-    </URLs>
-    <Type>Component</Type>
-    <Description>Auto Splitting and Game Time are available for VBA 1.8.0 Beta 3 on NTSC-J. (Beta Build By CryZe and wooferzfg1)</Description>
-  </AutoSplitter>
-  <AutoSplitter>
-    <Games>
       <Game>The Wheel of Time</Game>
       <Game>Wheel of Time</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/Dalet/LiveSplit.WheelOfTime/raw/master/Components/LiveSplit.WheelOfTime.dll</URL>
+      <URL>https://raw.githubusercontent.com/Dalet/LiveSplit.WheelOfTime/master/Components/LiveSplit.WheelOfTime.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting and Load Removal are available. (By Dalet)</Description>
+    <Website>https://github.com/Dalet/LiveSplit.WheelOfTime/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
       <Game>Wrack</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/Dalet/LiveSplit.Wrack/raw/master/Components/LiveSplit.Wrack.dll</URL>
+      <URL>https://raw.githubusercontent.com/Dalet/LiveSplit.Wrack/master/Components/LiveSplit.Wrack.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting and Game Time are available. (By Dalet)</Description>
+    <Website>https://github.com/Dalet/LiveSplit.Wrack/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -265,10 +229,11 @@
       <Game>Yume Penguin Monogatari</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/Dalet/LiveSplit.YumePenguinMonogatari/raw/master/Components/LiveSplit.YumePenguinMonogatari.dll</URL>
+      <URL>https://raw.githubusercontent.com/Dalet/LiveSplit.YumePenguinMonogatari/master/Components/LiveSplit.YumePenguinMonogatari.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting is available for Emulator. (By Dalet)</Description>
+    <Website>https://github.com/Dalet/LiveSplit.YumePenguinMonogatari/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -283,26 +248,130 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
+      <Game>Harry Potter 2</Game>
+      <Game>Harry Potter II</Game>
+      <Game>HP2</Game>
+      <Game>HP2PC</Game>
+      <Game>Harry Potter and the Chamber of Secrets</Game>
+      <Game>Harry Potter and the Chamber of Secrets (PC)</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Dalet/LiveSplit.HP2/master/Components/LiveSplit.HP2.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Load Removal is available. (By Dalet)</Description>
+    <Website>https://github.com/Dalet/LiveSplit.HP2/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Shrek 2</Game>
+      <Game>Shrek 2 (PC)</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Dalet/LiveSplit.Shrek2/master/Components/LiveSplit.Shrek2.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Auto Splitting is available. (By Dalet)</Description>
+    <Website>https://github.com/Dalet/LiveSplit.Shrek2/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Bully: Scholarship Edition</Game>
+      <Game>Bully</Game>
+      <Game>Canis Canem Edit</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Dalet/LiveSplit.Bully/master/Components/LiveSplit.Bully.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Load Removal is available. (By Dalet)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Dying Light</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Dalet/DyingLightIGT/master/Components/LiveSplit.DyingLightIGT.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Automatic Timer Start/Reset and Game Time is available. (By Dalet)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
       <Game>The Elder Scrolls V: Skyrim</Game>
       <Game>Skyrim</Game>
       <Game>TESV</Game>
       <Game>The Elder Scrolls 5: Skyrim</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/drtchops/LiveSplit.Skyrim/raw/master/Components/LiveSplit.Skyrim.dll</URL>
+      <URL>https://raw.githubusercontent.com/drtchops/LiveSplit.Skyrim/master/Components/LiveSplit.Skyrim.dll</URL>
     </URLs>
     <Type>Component</Type>
-    <Description>Auto Splitting and Load Removal are available. (By DrTChops)</Description>
+    <Description>Auto Splitting and Load Removal are available. (By Dalet and DrTChops)</Description>
+    <Website>https://github.com/drtchops/LiveSplit.Skyrim/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>The Elder Scrolls Anthology</Game>
+      <Game>The Elder Scrolls: Anthology</Game>
+      <Game>TES Anthology</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/drtchops/asl/master/tes_anthology.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By DrTChops)</Description>
+    <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
       <Game>Fallout 3</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/drtchops/LiveSplit.Fallout3/raw/master/Components/LiveSplit.Fallout3.dll</URL>
+      <URL>https://raw.githubusercontent.com/drtchops/asl/master/fallout3.asl</URL>
     </URLs>
-    <Type>Component</Type>
-    <Description>Auto Splitting and Load Removal are available. (By DrTChops)</Description>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By DrTChops)</Description>
+    <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Fallout: New Vegas</Game>
+      <Game>Fallout New Vegas</Game>
+      <Game>Fallout: NV</Game>
+      <Game>Fallout NV</Game>
+      <Game>FONV</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/drtchops/asl/master/newvegas.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By DrTChops)</Description>
+    <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Fallout Anthology</Game>
+      <Game>Fallout: Anthology</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/drtchops/asl/master/fallout_anthology.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By DrTChops)</Description>
+    <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Dragon Age 2</Game>
+      <Game>DA2</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/drtchops/asl/master/dragonage2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By DrTChops)</Description>
+    <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -313,20 +382,52 @@
       <Game>DXHR</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/drtchops/LiveSplit.DXHR/raw/master/Components/LiveSplit.DXHR.dll</URL>
+      <URL>https://raw.githubusercontent.com/drtchops/LiveSplit.DXHR/master/Components/LiveSplit.DXHR.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting and Load Removal are available. (By DrTChops)</Description>
+    <Website>https://github.com/drtchops/LiveSplit.DXHR/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Judge Dredd: Dredd vs. Death</Game>
+      <Game>Judge Dredd: Dredd vs Death</Game>
+      <Game>Judge Dredd Dredd vs. Death</Game>
+      <Game>Judge Dredd Dredd vs Death</Game>
+      <Game>Dredd vs. Death</Game>
+      <Game>Dredd vs Death</Game>
+      <Game>Judge Dredd</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/drtchops/asl/master/dredd.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Splitting and Load Removal are available. (By DrTChops)</Description>
+    <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
       <Game>Mass Effect</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/drtchops/LiveSplit.MassEffect/raw/master/Components/LiveSplit.MassEffect.dll</URL>
+      <URL>https://raw.githubusercontent.com/drtchops/asl/master/masseffect.asl</URL>
     </URLs>
-    <Type>Component</Type>
+    <Type>Script</Type>
     <Description>Load Removal is available. (By DrTChops)</Description>
+    <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Resident Evil 4</Game>
+      <Game>Biohazard 4</Game>
+      <Game>RE4</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/drtchops/asl/master/bio4.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Splitting and Game Time are available. (By LetsGetPitted)</Description>
+    <Website>https://github.com/drtchops/asl/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -340,6 +441,7 @@
     </URLs>
     <Type>Component</Type>
     <Description>Load Removal is available. (By Fatalis)</Description>
+    <Website>https://github.com/fatalis/LiveSplit.Amnesia/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -351,6 +453,7 @@
     <Type>Script</Type>
     <Description>Load Removal is available. (By Abahbob)</Description>
   </AutoSplitter>
+  <!-- 404?
   <AutoSplitter>
     <Games>
       <Game>Magnetic By Nature</Game>
@@ -361,16 +464,18 @@
     <Type>Component</Type>
     <Description>Auto Splitting and Load Removal are available (By 0Seren)</Description>
   </AutoSplitter>
+  -->
   <AutoSplitter>
     <Games>
       <Game>Hitman: Absolution</Game>
       <Game>Hitman Absolution</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/SuiMachine/LiveSplit.HitmanAbsolution/raw/Master/Components/LiveSplit.HMA.dll</URL>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.HitmanAbsolution/Master/Components/LiveSplit.HMA.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Auto Splitting and Load Removal are available (By SuicideMachine)</Description>
+    <Website>https://github.com/SuiMachine/LiveSplit.HitmanAbsolution/blob/Master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -378,9 +483,9 @@
       <Game>KotOR</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/glasnonck/LiveSplit.Kotor/raw/master/Components/LiveSplit.Kotor.dll</URL>
+      <URL>https://raw.githubusercontent.com/glasnonck/LiveSplit.ASL/master/KotOR.asl</URL>
     </URLs>
-    <Type>Component</Type>
+    <Type>Script</Type>
     <Description>Load Removal is available. (By glasnonck)</Description>
   </AutoSplitter>
   <AutoSplitter>
@@ -391,9 +496,9 @@
       <Game>KotOR 2</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/glasnonck/LiveSplit.Kotor2/raw/master/Components/LiveSplit.Kotor2.dll</URL>
+      <URL>https://raw.githubusercontent.com/glasnonck/LiveSplit.ASL/master/KotOR2.asl</URL>
     </URLs>
-    <Type>Component</Type>
+    <Type>Script</Type>
     <Description>Load Removal is available. (By glasnonck)</Description>
   </AutoSplitter>
   <AutoSplitter>
@@ -432,10 +537,11 @@
       <Game>AVP2010</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/SuiMachine/LiveSplit.AVP2010/raw/master/Components/LiveSplit.AVP2010.dll</URL>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.AVP2010/master/Components/LiveSplit.AVP2010.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Automatic Load Removal is available (By SuicideMachine)</Description>
+    <Website>https://github.com/SuiMachine/LiveSplit.AVP2010/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -464,10 +570,11 @@
       <Game>Deus Ex The Fall</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/SuiMachine/LiveSplit.DXTF/raw/master/Components/LiveSplit.DXTF.dll</URL>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.DXTF/master/Components/LiveSplit.DXTF.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Automatic Load Removal is available (By SuicideMachine)</Description>
+    <Website>https://github.com/SuiMachine/LiveSplit.DXTF/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -475,10 +582,11 @@
       <Game>Deus Ex Invisible War</Game>
     </Games>
     <URLs>
-      <URL>https://github.com/SuiMachine/LiveSplit.DXIW/raw/master/Components/LiveSplit.DXIW.dll</URL>
+      <URL>https://raw.githubusercontent.com/SuiMachine/LiveSplit.DXIW/master/Components/LiveSplit.DXIW.dll</URL>
     </URLs>
     <Type>Component</Type>
     <Description>Automatic Load Removal is available (By SuicideMachine)</Description>
+    <Website>https://github.com/SuiMachine/LiveSplit.DXIW/blob/master/README.md</Website>
   </AutoSplitter>
   <AutoSplitter>
     <Games>
@@ -496,7 +604,7 @@
   </AutoSplitter>
   <AutoSplitter>
     <Games>
-      <Game>The Elder Scrolls V: Oblivion</Game>
+      <Game>The Elder Scrolls IV: Oblivion</Game>
       <Game>Oblivion</Game>
       <Game>TESIV</Game>
       <Game>The Elder Scrolls 4: Oblivion</Game>
@@ -506,5 +614,328 @@
     </URLs>
     <Type>Script</Type>
     <Description>Load Removal is available for patch 1.0. (By TheFuncannon)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Rayman Legends</Game>
+    </Games>
+    <URLs>
+      <URL>https://dl.dropboxusercontent.com/u/283391/LiveSplit.RaymanLegends.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal and Auto Splitting (Beta) is available. (By cooopercrisp)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>SADX</Game>
+      <Game>Sonic Adventure DX</Game>
+      <Game>Sonic Adventure DX: Director's Cut</Game>
+      <Game>Sonic Adventure DX: Directors Cut</Game>
+      <Game>Sonic Adventure DX Director's Cut</Game>
+      <Game>Sonic Adventure DX Directors Cut</Game>
+    </Games>
+    <URLs>
+      <URL>https://dl.dropboxusercontent.com/s/phb0per4f9zyecw/sadx.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Splitting (Beta-v1) is available. (By VeritasDL)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Box Out!</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/madzinah/LiveSplits_Scripts/master/BoxOut.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Splitting is available. (By Madzinah)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>MGR</Game>
+      <Game>Metal Gear Rising</Game>
+      <Game>Metal Gear Rising Revengeance</Game>
+      <Game>Metal Gear Rising: Revengeance</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/dread2472/ASL/master/MGR.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By Dread and Chops)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>SWJKJA</Game>
+      <Game>JKJA</Game>
+      <Game>Jedi Knight 3</Game>
+      <Game>Jedi Knight III</Game>
+      <Game>Jedi Academy</Game>
+      <Game>Star Wars: Jedi Knight - Jedi Academy</Game>
+      <Game>Star Wars: Jedi Knight Jedi Academy</Game>
+      <Game>Star Wars: Jedi Knight : Jedi Academy</Game>
+      <Game>Star Wars - Jedi Knight - Jedi Academy</Game>
+      <Game>Star Wars - Jedi Knight Jedi Academy</Game>
+      <Game>Star Wars - Jedi Knight: Jedi Academy</Game>
+      <Game>Star Wars Jedi Knight - Jedi Academy</Game>
+      <Game>Star Wars Jedi Knight Jedi Academy</Game>
+      <Game>Star Wars Jedi Knight: Jedi Academy</Game>
+      <Game>Jedi Knight - Jedi Academy</Game>
+      <Game>Jedi Knight: Jedi Academy</Game>
+      <Game>Jedi Knight Jedi Academy</Game>
+      <Game>JK 3: Jedi Academy</Game>
+      <Game>Jedi Knight 3: Jedi Academy</Game>
+      <Game>Jedi Knight 3 - Jedi Academy</Game>
+      <Game>Jedi Knight 3 Jedi Academy</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/dread2472/ASL/master/JKJA.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitting and Load Removal are available. (By Dread and Zefie)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>RE5</Game>
+      <Game>Resident Evil 5</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/dread2472/ASL/master/RE5.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitting and Load Removal are available. (By Dread)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Styx</Game>
+      <Game>Styx: MoS</Game>
+      <Game>Styx: Master of Shadows</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/dread2472/ASL/master/Styx.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By Zefie)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Bio Inf</Game>
+      <Game>BioShock Infinite</Game>
+      <Game>BioShock Infinite (PC)</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/dread2472/ASL/master/BioInf.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By Dread)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>BioShock</Game>
+    </Games>
+    <URLs>
+      <URL>https://gist.githubusercontent.com/MrWalrus3451/413423315910e1103149/raw/052ebaffde0d06cfd5f2599523ed1b812706e590/LiveSplit.Bioshock.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By MrWalrus)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>SWJKJO</Game>
+      <Game>JKJO</Game>
+      <Game>Jedi Knight 2</Game>
+      <Game>Jedi Knight II</Game>
+      <Game>Jedi Outcast</Game>
+      <Game>Star Wars: Jedi Knight II - Jedi Outcast</Game>
+      <Game>Star Wars: Jedi Knight II Jedi Outcast</Game>
+      <Game>Star Wars: Jedi Knight II : Jedi Outcast</Game>
+      <Game>Star Wars - Jedi Knight II - Jedi Outcast</Game>
+      <Game>Star Wars - Jedi Knight II Jedi Outcast</Game>
+      <Game>Star Wars - Jedi Knight II: Jedi Outcast</Game>
+      <Game>Star Wars Jedi Knight II - Jedi Outcast</Game>
+      <Game>Star Wars Jedi Knight II Jedi Outcast</Game>
+      <Game>Star Wars Jedi Knight II: Jedi Outcast</Game>
+      <Game>Star Wars: Jedi Knight 2 - Jedi Outcast</Game>
+      <Game>Star Wars: Jedi Knight 2 Jedi Outcast</Game>
+      <Game>Star Wars: Jedi Knight 2 : Jedi Outcast</Game>
+      <Game>Star Wars - Jedi Knight 2 - Jedi Outcast</Game>
+      <Game>Star Wars - Jedi Knight 2 Jedi Outcast</Game>
+      <Game>Star Wars - Jedi Knight 2: Jedi Outcast</Game>
+      <Game>Star Wars Jedi Knight 2 - Jedi Outcast</Game>
+      <Game>Star Wars Jedi Knight 2 Jedi Outcast</Game>
+      <Game>Star Wars Jedi Knight 2: Jedi Outcast</Game>
+      <Game>Jedi Knight II Jedi Outcast</Game>
+      <Game>Jedi Knight II: Jedi Outcast</Game>
+      <Game>Jedi Knight II - Jedi Outcast</Game>
+      <Game>Jedi Knight 2 Jedi Outcast</Game>
+      <Game>Jedi Knight 2: Jedi Outcast</Game>
+      <Game>Jedi Knight 2 - Jedi Outcast</Game>
+      <Game>JK 2: Jedi Outcast</Game>
+      <Game>JK II: Jedi Outcast</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/dread2472/ASL/master/JKJO.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By Dread)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Super Mario World</Game>
+    </Games>
+    <URLs>
+      <URL>https://gist.githubusercontent.com/rainjacket/0ccadd17f8f4f61b1372/raw/1fb99108779a4a476a3ed044d1b174931e1b9f75/LiveSplit.SMW.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Auto Splitting is available on Snes9x v1.53 (x86). (By calmdowntime)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Advent Rising</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/glasnonck/LiveSplit.ASL/master/AdventRising.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By glasnonck)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Rune</Game>
+      <Game>Rune Classic</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/dread2472/ASL/master/Rune.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By Dread)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Castle of Illusion Starring Mickey Mouse HD</Game>
+      <Game>Castle of Illusion Starring Mickey Mouse (HD)</Game>
+      <Game>Castle of Illusion HD</Game>
+      <Game>Castle of Illusion (HD)</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/btrim/CastleOfIllusionAutoSplitter/stable/CastleOfIllusionHD.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>English translation only. Load Removal is available. (By btrim)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Minecraft</Game>
+      <Game>Minecraft Set-Seed</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/LiveSplit/LiveSplit.ScriptableAutoSplit/master/Scripts/LiveSplit.Minecraft.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Game Time is available for 1.6.4. (By CryZe)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Dark Souls</Game>
+      <Game>Dark Souls 1</Game>
+      <Game>Dark Souls 1: Prepare to Die Edition</Game>
+      <Game>Dark Souls: Prepare to Die Edition</Game>
+    </Games>
+    <URLs>
+      <URL>http://speedsouls.com/jiiks/DsIgt.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Game Time is available. (By Jiiks)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Dark Souls 2</Game>
+      <Game>Dark Souls II</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/dread2472/ASL/master/DarkSouls2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By Dread)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Quake</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/kugelrund/LiveSplit.Quake/master/Components/LiveSplit.Quake.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>For joequake-gl with qdqstats. Game Time is available. (By Sphere)</Description>
+    <Website>https://github.com/kugelrund/LiveSplit.Quake/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Quake 2</Game>
+      <Game>Quake II</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/kugelrund/LiveSplit.Quake2/master/Components/LiveSplit.Quake2.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>For q2pro. Load removal is available. (By Sphere)</Description>
+    <Website>https://github.com/kugelrund/LiveSplit.Quake2/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Star Trek: Voyager - Elite Force</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/kugelrund/LiveSplit.StVoyEf/master/Components/LiveSplit.StVoyEf.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Load removal is available. (By Sphere)</Description>
+    <Website>https://github.com/kugelrund/LiveSplit.StVoyEf/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Star Trek: Elite Force 2</Game>
+      <Game>Star Trek: Elite Force II</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/kugelrund/LiveSplit.StEf2/master/Components/LiveSplit.StEf2.dll</URL>
+    </URLs>
+    <Type>Component</Type>
+    <Description>Load removal is available. (By Sphere)</Description>
+    <Website>https://github.com/kugelrund/LiveSplit.StEf2/blob/master/README.md</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Shadow Warrior 2013</Game>
+      <Game>Shadow Warrior (2013)</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/glasnonck/LiveSplit.ASL/master/ShadowWarrior2013.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load removal is available. (By glasnonck)</Description>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>The Simpsons: Hit &amp; Run</Game>
+      <Game>The Simpsons Hit &amp; Run</Game>
+      <Game>The Simpsons: Hit and Run</Game>
+      <Game>The Simpsons Hit and Run</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/zoton2/LiveSplit.Scripts/master/Release/LiveSplit.TheSimpsonsHitAndRun.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load removal is available. (By zoton2 and PessimisticMango)</Description>
+    <Website>https://github.com/zoton2/LiveSplit.Scripts</Website>
+  </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+      <Game>Call of Duty: Modern Warfare 2</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/Jukspa/MW2LoadRemoval/master/mw2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By Jukspa)</Description>
   </AutoSplitter>
 </AutoSplitters>
