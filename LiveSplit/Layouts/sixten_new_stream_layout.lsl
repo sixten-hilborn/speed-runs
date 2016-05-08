@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>119</X>
-  <Y>401</Y>
+  <X>322</X>
+  <Y>65</Y>
   <VerticalWidth>300</VerticalWidth>
-  <VerticalHeight>417</VerticalHeight>
+  <VerticalHeight>627</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -43,7 +43,7 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>5</VisualSplitCount>
+        <VisualSplitCount>12</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>True</ShowThinSeparators>
@@ -116,7 +116,7 @@
       <Path>LiveSplit.Video.dll</Path>
       <Settings>
         <Version>1.4</Version>
-        <VideoPath>C:\Users\Sixten\Videos\tvirre-2015-09-29-1216-16.flv</VideoPath>
+        <VideoPath>C:\Users\Sixten\Videos\tvirre-2015-09-30-2041-10.flv</VideoPath>
         <Offset>12.50</Offset>
         <Height>200</Height>
         <Width>200</Width>
