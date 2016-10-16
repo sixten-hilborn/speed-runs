@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>322</X>
-  <Y>65</Y>
+  <X>129</X>
+  <Y>203</Y>
   <VerticalWidth>300</VerticalWidth>
   <VerticalHeight>627</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
@@ -116,8 +116,8 @@
       <Path>LiveSplit.Video.dll</Path>
       <Settings>
         <Version>1.4</Version>
-        <VideoPath>C:\Users\Sixten\Videos\tvirre-2015-09-30-2041-10.flv</VideoPath>
-        <Offset>12.50</Offset>
+        <VideoPath>C:\Users\Sixten\Videos\SM_4755.flv</VideoPath>
+        <Offset>44:26.00</Offset>
         <Height>200</Height>
         <Width>200</Width>
       </Settings>
